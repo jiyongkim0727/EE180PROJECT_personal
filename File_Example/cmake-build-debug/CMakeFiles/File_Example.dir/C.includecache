@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/Functions.h
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/classifiers.c
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+Functions.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/Functions.h
+sys/time.h
+-
+math.h
+-
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/classifiers.h
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+Functions.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/Functions.h
+sys/time.h
+-
+math.h
+-
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/main.c
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/time.h
+-
+Functions.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/Functions.h
+process.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/process.h
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/process.c
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+Functions.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/Functions.h
+sys/time.h
+-
+classifiers.h
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/classifiers.h
+
+/Users/amaaelantonini/Documents/Winter 2017/EE 180DA/File_Example/process.h
+
